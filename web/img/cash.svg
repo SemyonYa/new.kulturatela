@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FF3399;stroke-width:32;stroke-linejoin:round;}
+	.st1{fill:none;stroke:#FF3399;stroke-width:32;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<title>ionicons-v5-l</title>
+<path class="st0" d="M464,336H48c-8.8,0-16-7.2-16-16V96c0-8.8,7.2-16,16-16h416c8.8,0,16,7.2,16,16v224
+	C480,328.8,472.8,336,464,336z"/>
+<line class="st1" x1="64" y1="384" x2="448" y2="384"/>
+<line class="st1" x1="96" y1="432" x2="416" y2="432"/>
+<circle class="st1" cx="256" cy="208" r="80"/>
+<path class="st1" d="M480,160c-44.2,0-80-35.8-80-80"/>
+<path class="st1" d="M32,160c44.2,0,80-35.8,80-80"/>
+<path class="st1" d="M480,256c-44.2,0-80,35.8-80,80"/>
+<path class="st1" d="M32,256c44.2,0,80,35.8,80,80"/>
+</svg>

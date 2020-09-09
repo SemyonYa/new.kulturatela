@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FF3399;stroke-width:32;stroke-linejoin:round;}
+	.st1{fill:#FF3399;}
+</style>
+<title>ionicons-v5-q</title>
+<path class="st0" d="M408,64H104c-30.9,0.1-55.9,25.1-56,56v192c0.1,30.9,25.1,55.9,56,56h40v80l93.7-78.1c1.4-1.2,3.3-1.9,5.1-1.9
+	H408c30.9-0.1,55.9-25.1,56-56V120C463.9,89.1,438.9,64.1,408,64z"/>
+<circle class="st1" cx="160" cy="216" r="32"/>
+<circle class="st1" cx="256" cy="216" r="32"/>
+<circle class="st1" cx="352" cy="216" r="32"/>
+</svg>
